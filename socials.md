@@ -6,24 +6,12 @@ description: >-
 
 # Socials
 
-**Website**: https://socin.org
-
 **Twitter**: https://twitter.com/socinorg
-
-**Medium**: https://medium.com/@socinorg
-
-**Youtube**: https://www.youtube.com/@socinorg
-
-**Reddit**: https://www.reddit.com/r/socinorg
 
 **Telegram Channel:** https://t.me/socinchannel
 
 **Telegram Group**: https://t.me/socinofficial
 
-**Github**: https://github.com/socinorg
+**Youtube**: https://www.youtube.com/@socinorg
 
-**Docs site:** https://docs.socin.org/
-
-**Telegram Channel Vietnam**: https://t.me/socinVN
-
-**Official mail:** contact@socin.org\
+**Github**: https://github.com/socinorg\
